@@ -1,0 +1,1 @@
+The image shows a circle with a diameter of 8cm. The center of the circle is at the origin (0,0) and the coordinates of the endpoints of the chord are (4,0) and (-4,0). The equation of the chord is x = 4 and y = 0. The equation of the circle is x^2 + y^2 = 16. The length of the chord is 8cm.

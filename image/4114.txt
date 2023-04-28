@@ -1,0 +1,5 @@
+This is a graphical representation of a phase diagram, showing the different phases of a substance as a function of temperature and pressure. The horizontal axis represents temperature, while the vertical axis represents pressure. The different lines on the graph represent different phases of the substance, with each line showing the pressure and temperature at which that phase occurs.
+
+There are three main phases in this phase diagram: solid, liquid, and gaseous. The solid phase occurs at low temperatures and high pressures, while the liquid phase occurs at higher temperatures and lower pressures. The gaseous phase occurs at even higher temperatures and lower pressures.
+
+At the bottom of the graph, there is a point labeled "K" which represents the melting point of the substance. This is the temperature at which the solid phase changes to the liquid phase.

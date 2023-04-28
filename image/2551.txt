@@ -1,0 +1,5 @@
+This is an image of a right triangle. The hypotenuse of the triangle is 10 cm long and the legs are 8 cm and 6 cm long. The height of the triangle is 12 cm.
+
+The length of the hypotenuse is 10 cm.
+The length of the legs are 8 cm and 6 cm.
+The height of the triangle is 12 cm.

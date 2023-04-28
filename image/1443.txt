@@ -1,0 +1,1 @@
+This is a screenshot of a puzzle game where the player must touch the spikes in a specific order to advance to the next level. If the player touches the wrong spikes, the game will end. The game has multiple levels, and the player must complete each level to progress.

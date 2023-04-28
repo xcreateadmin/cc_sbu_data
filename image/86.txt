@@ -1,0 +1,1 @@
+the second row are all tails up. The tails of the coins in the first row face the heads of the coins in the second row, and vice versa.

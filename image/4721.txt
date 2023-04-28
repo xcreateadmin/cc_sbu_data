@@ -1,0 +1,1 @@
+This image represents the slope and y-intercept form of a line. The slope is the ratio of the change in x to the change in y, and the y-intercept is the point where the line intersects the y-axis. The equation of the line is y = mx + b, where m is the slope and b is the y-intercept. It can be used to determine the coordinates of any point on the line.

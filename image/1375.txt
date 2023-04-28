@@ -1,0 +1,1 @@
+The image shows a map of the United States with red dots scattered throughout the country, representing the number of COVID cases in each state. The states with the highest number of cases have the most dots, while states with fewer cases have fewer dots.
